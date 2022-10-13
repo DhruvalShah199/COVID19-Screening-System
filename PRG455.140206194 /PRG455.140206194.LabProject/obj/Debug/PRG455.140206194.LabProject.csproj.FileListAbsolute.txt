@@ -1,0 +1,11 @@
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\bin\Debug\PRG455.140206194.LabProject.exe.config
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\bin\Debug\PRG455.140206194.LabProject.exe
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\bin\Debug\PRG455.140206194.LabProject.pdb
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\obj\Debug\PRG455.140206194.LabProject.csprojAssemblyReference.cache
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\obj\Debug\PRG455._140206194.LabProject.frmMainCode.resources
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\obj\Debug\PRG455._140206194.LabProject.Properties.Resources.resources
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\obj\Debug\PRG455.140206194.LabProject.csproj.GenerateResource.cache
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\obj\Debug\PRG455.140206194.LabProject.exe
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\obj\Debug\PRG455.140206194.LabProject.pdb
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\bin\Debug\CovidScreeningDB.mdf
+C:\Users\dhshah7\Desktop\PRG455.140206194\PRG455.140206194.LabProject\bin\Debug\CovidScreeningDB_log.ldf
